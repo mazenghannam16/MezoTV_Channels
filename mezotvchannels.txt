@@ -1,0 +1,1103 @@
+#EXTM3U
+#EXTINF:-1,BEIN SPORT  1 FHD MyTV+
+http://stream.mytvplus.net:7002/sport/ch1/ch1_1080.m3u8
+
+#EXTINF:-1,BEIN SPORT  2 FHD
+http://stream.mytvplus.net:7003/sport/ch2/ch2_1080.m3u8
+
+#EXTINF:-1,BEIN SPORT   3 FHD
+http://stream.mytvplus.net:7004/sport/ch3/ch3_1080.m3u8
+
+#EXTINF:-1,BEIN SPORT  4 FHD
+http://stream.mytvplus.net:7005/sport/ch4/ch4_1080.m3u8
+
+#EXTINF:-1,BEIN SPORT  5 FHD
+http://stream.mytvplus.net:7006/sport/ch5/ch5_1080.m3u8
+
+#EXTINF:-1,BEIN SPORT  6 FHD
+http://stream.mytvplus.net:7007/sport/ch6/ch6_1080.m3u8
+
+#EXTINF:-1,BEIN SPORT  7 FHD
+http://stream.mytvplus.net:7008/sport/ch7/ch7_1080.m3u8
+
+#EXTINF:-1,BEIN SPORT  8 FHD
+http://stream.mytvplus.net:7009/sport/ch8/ch8_1080.m3u8
+
+#EXTINF:-1,BEIN SPORT  9 FHD
+http://stream.mytvplus.net:7010/sport/ch9/ch9_1080.m3u8
+
+#EXTINF:-1,BEIN SPORT  10 FHD
+http://stream.mytvplus.net:7011/sport/ch10/ch10_1080.m3u8
+
+#EXTINF:-1,AD SPORT 1  FHD
+http://stream.mytvplus.net:7012/sport/ch11/ch11_1080.m3u8
+
+#EXTINF:-1,AD SPORT 2  FHD
+http://stream.mytvplus.net:7013/sport/ch12/ch12_1080.m3u8 
+
+#EXTINF:-1,BEIN SPORT   1 HD
+http://stream.mytvplus.net:7002/sport/ch1/ch1_720.m3u8
+
+#EXTINF:-1,BEIN SPORT   2 HD
+http://stream.mytvplus.net:7003/sport/ch2/ch2_720.m3u8
+
+#EXTINF:-1,BEIN SPORT   3 HD
+http://stream.mytvplus.net:7004/sport/ch3/ch3_720.m3u8
+
+#EXTINF:-1,BEIN SPORT  4 HD
+http://stream.mytvplus.net:7005/sport/ch4/ch4_720.m3u8
+
+#EXTINF:-1,BEIN SPORT  5 HD
+http://stream.mytvplus.net:7006/sport/ch5/ch5_720.m3u8
+
+#EXTINF:-1,BEIN SPORT  6 HD
+http://stream.mytvplus.net:7007/sport/ch6/ch6_720.m3u8
+
+#EXTINF:-1,BEIN SPORT  7 HD
+http://stream.mytvplus.net:7008/sport/ch7/ch7_720.m3u8
+
+#EXTINF:-1,BEIN SPORT  8 HD
+http://stream.mytvplus.net:7009/sport/ch8/ch8_720.m3u8
+
+#EXTINF:-1,BEIN SPORT  9 HD
+http://stream.mytvplus.net:7010/sport/ch9/ch9_720.m3u8
+
+#EXTINF:-1,BEIN SPORT  10 HD
+http://stream.mytvplus.net:7011/sport/ch10/ch10_720.m3u8
+
+#EXTINF:-1,AD SPORT 1  HD
+http://stream.mytvplus.net:7012/sport/ch11/ch11_720.m3u8
+
+#EXTINF:-1,AD SPORT 2  HD
+http://stream.mytvplus.net:7013/sport/ch12/ch12_720.m3u8 
+
+#EXTINF:-1,BEIN SPORT   1 SD
+http://stream.mytvplus.net:7002/sport/ch1/ch1_360.m3u8
+
+#EXTINF:-1,BEIN SPORT   2 SD
+http://stream.mytvplus.net:7003/sport/ch2/ch2_360.m3u8
+
+#EXTINF:-1,BEIN SPORT   3 SD
+http://stream.mytvplus.net:7004/sport/ch3/ch3_360.m3u8
+
+#EXTINF:-1,BEIN SPORT  4 SD
+http://stream.mytvplus.net:7005/sport/ch4/ch4_360.m3u8
+
+#EXTINF:-1,BEIN SPORT  5 SD
+http://stream.mytvplus.net:7006/sport/ch5/ch5_360.m3u8
+
+#EXTINF:-1,BEIN SPORT  6 SD
+http://stream.mytvplus.net:7007/sport/ch6/ch6_360.m3u8
+
+#EXTINF:-1,BEIN SPORT  7 SD
+http://stream.mytvplus.net:7008/sport/ch7/ch7_360.m3u8
+
+#EXTINF:-1,BEIN SPORT  8 SD
+http://stream.mytvplus.net:7009/sport/ch8/ch8_360.m3u8
+
+#EXTINF:-1,BEIN SPORT  9 SD
+http://stream.mytvplus.net:7010/sport/ch9/ch9_360.m3u8
+
+#EXTINF:-1,BEIN SPORT  10 SD
+http://stream.mytvplus.net:7011/sport/ch10/ch10_360.m3u8
+
+#EXTINF:-1,AD SPORT 1  SD
+http://stream.mytvplus.net:7012/sport/ch11/ch11_360.m3u8
+
+#EXTINF:-1,AD SPORT 2  SD
+http://stream.mytvplus.net:7013/sport/ch12/ch12_360.m3u8 
+
+#EXTINF:-1,BEIN SPORT   1 LOW
+http://stream.mytvplus.net:7002/sport/ch1/ch1_240.m3u8
+
+#EXTINF:-1,BEIN SPORT   2 LOW
+http://stream.mytvplus.net:7003/sport/ch2/ch2_240.m3u8
+
+#EXTINF:-1,BEIN SPORT   3 LOW
+http://stream.mytvplus.net:7004/sport/ch3/ch3_240.m3u8
+
+#EXTINF:-1,BEIN SPORT  4 LOW
+http://stream.mytvplus.net:7005/sport/ch4/ch4_240.m3u8
+
+#EXTINF:-1,BEIN SPORT  5 LOW
+http://stream.mytvplus.net:7006/sport/ch5/ch5_240.m3u8
+
+#EXTINF:-1,BEIN SPORT  6 LOW
+http://stream.mytvplus.net:7007/sport/ch6/ch6_240.m3u8
+
+#EXTINF:-1,BEIN SPORT  7 LOW
+http://stream.mytvplus.net:7008/sport/ch7/ch7_240.m3u8
+
+#EXTINF:-1,BEIN SPORT  8 LOW
+http://stream.mytvplus.net:7009/sport/ch8/ch8_240.m3u8
+
+#EXTINF:-1,BEIN SPORT  9 LOW
+http://stream.mytvplus.net:7010/sport/ch9/ch9_240.m3u8
+
+#EXTINF:-1,BEIN SPORT  10 LOW
+http://stream.mytvplus.net:7011/sport/ch10/ch10_240.m3u8
+
+#EXTINF:-1,AD SPORT 1  LOW
+http://stream.mytvplus.net:7012/sport/ch11/ch11_240.m3u8
+
+#EXTINF:-1,AD SPORT 2  LOW
+http://stream.mytvplus.net:7013/sport/ch12/ch12_240.m3u8
+#EXTM3U
+#EXTINF:0, Ben sport 1 FHD Super TV
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+#EXTINF:0, Ben sport 2 FHD
+https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_1080.m3u8
+#EXTINF:0, Ben sport 3 FHD
+https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_1080.m3u8
+#EXTINF:0, Ben sport 4 FHD
+https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_1080.m3u8
+#EXTINF:0, Ben sport 5 FHD
+https://stream.supertv.gg:3005/supertv/sport/stv5/ch5/ch5_1080.m3u8
+#EXTINF:0, Ben sport 6 FHD
+https://stream.supertv.gg:3006/supertv/sport/stv6/ch6/ch6_1080.m3u8
+#EXTINF:0, Ben sport 7 FHD
+https://stream.supertv.gg:3007/supertv/sport/stv7/ch7/ch7_1080.m3u8
+#EXTINF:0, Ben sport 8 FHD
+https://stream.supertv.gg:3008/supertv/sport/stv8/ch8/ch8_1080.m3u8
+#EXTINF:0, Ben sport 9 FHD
+https://stream.supertv.gg:3009/supertv/sport/stv9/ch9/ch9_1080.m3u8
+#EXTINF:0, Ben sport 10 FHD
+https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_1080.m3u8
+#EXTINF:0, Ben sport 1 HD
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8
+#EXTINF:0, Ben sport 2 HD
+https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_720.m3u8
+#EXTINF:0, Ben sport 3 HD
+https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_720.m3u8
+#EXTINF:0, Ben sport 4 HD
+https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_720.m3u8
+#EXTINF:0, Ben sport 5 HD
+https://stream.supertv.gg:3005/supertv/sport/stv5/ch5/ch5_720.m3u8
+#EXTINF:0, Ben sport 6 HD
+https://stream.supertv.gg:3006/supertv/sport/stv6/ch6/ch6_720.m3u8
+#EXTINF:0, Ben sport 7 HD
+https://stream.supertv.gg:3007/supertv/sport/stv7/ch7/ch7_720.m3u8
+#EXTINF:0, Ben sport 8 HD
+https://stream.supertv.gg:3008/supertv/sport/stv8/ch8/ch8_720.m3u8
+#EXTINF:0, Ben sport 9 HD
+https://stream.supertv.gg:3009/supertv/sport/stv9/ch9/ch9_720.m3u8
+#EXTINF:0, Ben sport 10 HD
+https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_720.m3u8
+#EXTINF:0, Ben sport 1 SD
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_360.m3u8
+#EXTINF:0, Ben sport 2 SD
+https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_360.m3u8
+#EXTINF:0, Ben sport 3 SD
+https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_360.m3u8
+#EXTINF:0, Ben sport 4 SD
+https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_360.m3u8
+#EXTINF:0, Ben sport 5 SD
+https://stream.supertv.gg:3005/supertv/sport/stv5/ch5/ch5_360.m3u8
+#EXTINF:0, Ben sport 6 SD
+https://stream.supertv.gg:3006/supertv/sport/stv6/ch6/ch6_360.m3u8
+#EXTINF:0, Ben sport 7 SD
+https://stream.supertv.gg:3007/supertv/sport/stv7/ch7/ch7_360.m3u8
+#EXTINF:0, Ben sport 8 SD
+https://stream.supertv.gg:3008/supertv/sport/stv8/ch8/ch8_360.m3u8
+#EXTINF:0, Ben sport 9 SD
+https://stream.supertv.gg:3009/supertv/sport/stv9/ch9/ch9_360.m3u8
+#EXTINF:0, Ben sport 10 SD
+https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_360.m3u8
+#EXTM3U
+#EXTINF:-1,SPORT-TV1 VEO
+https://stream.veo.buzz:6050/sport/ch1/ch1_720.m3u8
+#EXTINF:-1,SKYSPORTS ARENA
+https://stream.veo.buzz:6050/sport/ch2/ch2_720.m3u8
+#EXTINF:-1,CANAL+ SPORT 1
+https://stream.veo.buzz:6050/sport/ch3/ch3_720.m3u8
+#EXTINF:-1,AD SPORT PREMUIM 1
+https://stream.veo.buzz:6050/sport/ch4/ch4_720.m3u8
+#EXTINF:-1,ARENASPORT 2
+https://stream.veo.buzz:6050/sport/ch5/ch5_720.m3u8
+#EXTINF:-1,SPORT 1
+https://stream.veo.buzz:6050/sport/ch6/ch6_720.m3u8
+#EXTINF:-1,RMC SPORT 1
+https://stream.veo.buzz:6050/sport/ch7/ch7_720.m3u8
+#EXTINF:-1,RMC SPORT 1
+https://stream.veo.buzz:6050/sport/ch8/ch8_720.m3u8
+#EXTINF:-1,SSC 1
+https://stream.veo.buzz:6050/sport/ch9/ch9_720.m3u8
+#EXTINF:-1,SSC 2
+https://stream.veo.buzz:6050/sport/ch10/ch10_720.m3u8
+#EXTINF:-1,IRAQIA SPORT 
+https://stream.veo.buzz:6050/sport/ch11/ch11_720.m3u8
+#EXTINF:-1,AL - RABAA SPORT
+https://stream.veo.buzz:6050/sport/ch12/ch12_720.m3u8
+#EXTINF:-1,AL - RABAA SPORT
+https://stream.veo.buzz:6050/sport/ch13/ch13_720.m3u8
+#EXTINF:-1,ON TIME SPORT
+https://stream.veo.buzz:6050/sport/ch14/ch14_720.m3u8
+#EXTINF:-1,ON TIME SPORT 2
+https://stream.veo.buzz:6050/sport/ch15/ch15_720.m3u8
+#EXTINF:-1,AL - KASS ONE
+https://stream.veo.buzz:6050/sport/ch18/ch18_720.m3u8
+#EXTINF:-1,AL - KASS TWO
+https://stream.veo.buzz:6050/sport/ch19/ch19_720.m3u8
+#EXTINF:-1,AL-ANWAR
+https://stream.veo.buzz:6050/islamic/ch1/ch1_720.m3u8
+#EXTINF:-1,KARBALA
+https://stream.veo.buzz:6050/islamic/ch2/ch2_720.m3u8
+#EXTINF:-1,AL-FORAT
+https://stream.veo.buzz:6050/islamic/ch3/ch3_720.m3u8
+#EXTINF:-1,AL-WELAYAH
+https://stream.veo.buzz:6050/islamic/ch4/ch4_720.m3u8
+#EXTINF:-1,KARABALA QURAN
+https://stream.veo.buzz:6050/islamic/ch5/ch5_720.m3u8
+#EXTINF:-1,AL-JAWADEEN
+https://stream.veo.buzz:6050/islamic/ch6/ch6_720.m3u8
+#EXTINF:-1,AL-MAWAKEB
+https://stream.veo.buzz:6050/islamic/ch7/ch7_720.m3u8
+#EXTINF:-1,SOUT-AL-AQILA
+https://stream.veo.buzz:6050/islamic/ch8/ch8_720.m3u8
+#EXTINF:-1,AL-ANES
+https://stream.veo.buzz:6050/islamic/ch9/ch9_720.m3u8
+#EXTINF:-1,AL-HUJJA
+https://stream.veo.buzz:6050/islamic/ch10/ch10_720.m3u8
+#EXTINF:-1,AL-GHADEER
+https://stream.veo.buzz:6050/islamic/ch11/ch11_720.m3u8
+#EXTINF:-1,AL-MAAREF
+https://stream.veo.buzz:6050/islamic/ch12/ch12_720.m3u8
+#EXTINF:-1,AL-SHAAER
+https://stream.veo.buzz:6050/islamic/ch13/ch13_720.m3u8
+#EXTINF:-1,AL-AQILA
+https://stream.veo.buzz:6050/islamic/ch14/ch14_720.m3u8
+#EXTINF:-1,AL-IMAM ALI
+https://stream.veo.buzz:6050/islamic/ch15/ch15_720.m3u8
+#EXTINF:-1,AL- IMAM HUSSIEN
+https://stream.veo.buzz:6050/islamic/ch16/ch16_720.m3u8
+#EXTINF:-1,OM- AL BANEEN
+https://stream.veo.buzz:6050/islamic/ch17/ch17_720.m3u8
+#EXTINF:-1,AFAQ
+https://stream.veo.buzz:6050/news/ch4/ch4_720.m3u8
+#EXTINF:-1,AL-ETEJAH
+https://stream.veo.buzz:6050/news/ch6/ch6_720.m3u8
+#EXTINF:-1,AL- MAYADEEN
+https://stream.veo.buzz:6050/news/ch10/ch10_720.m3u8
+#EXTINF:-1,AL -ANWAR 
+https://stream.veo.buzz:6050/news/ch9/ch9_720.m3u8
+#EXTINF:-1,AL-HURAA IRAQ
+https://stream.veo.buzz:6050/news/ch1/ch1_720.m3u8
+#EXTINF:-1,AL-SHARQIYA
+https://stream.veo.buzz:6050/news/ch2/ch2_720.m3u8
+#EXTINF:-1,KARABALA
+https://stream.veo.buzz:6050/news/ch8/ch8_720.m3u8
+#EXTINF:-1,AL-SHARQIYA NEWS
+https://stream.veo.buzz:6050/news/ch3/ch3_720.m3u8
+#EXTINF:-1,AL-SUMARIA
+https://stream.veo.buzz:6050/news/ch5/ch5_720.m3u8
+#EXTINF:-1,AL-FORAT
+https://stream.veo.buzz:6050/news/ch7/ch7_720.m3u8
+#EXTINF:-1,HONA BAGHDAD
+https://stream.veo.buzz:6050/news/ch21/ch21_720.m3u8
+#EXTINF:-1,AL-HADATH
+https://stream.veo.buzz:6050/news/ch28/ch28_720.m3u8
+#EXTINF:-1,24 IRAQ
+https://stream.veo.buzz:6050/news/ch22/ch22_720.m3u8
+#EXTINF:-1,AL-ARABIYA
+https://stream.veo.buzz:6050/news/ch27/ch27_720.m3u8
+#EXTINF:-1,DW
+https://stream.veo.buzz:6050/news/ch13/ch13_720.m3u8
+#EXTINF:-1,AL-JAZEERA
+https://stream.veo.buzz:6050/news/ch20/ch20_720.m3u8
+#EXTINF:-1,SSC NEWS
+https://stream.veo.buzz:6050/news/ch25/ch25_720.m3u8
+#EXTINF:-1,FRANCE 24 ARABIC
+https://stream.veo.buzz:6050/news/ch11/ch11_720.m3u8
+#EXTINF:-1,CNN NEWS
+https://stream.veo.buzz:6050/news/ch14/ch14_720.m3u8
+#EXTINF:-1,BBC ARABIC
+https://stream.veo.buzz:6050/news/ch12/ch12_720.m3u8
+#EXTINF:-1,OSN NEWS
+https://stream.veo.buzz:6050/news/ch24/ch24_720.m3u8
+#EXTINF:-1,BBC ENGLISH
+https://stream.veo.buzz:6050/news/ch15/ch15_720.m3u8
+#EXTINF:-1,RT NEWS
+https://stream.veo.buzz:6050/news/ch26/ch26_720.m3u8
+#EXTINF:-1,FRANCE 24 ENGLISH
+https://stream.veo.buzz:6050/news/ch17/ch17_720.m3u8
+#EXTINF:-1,FOX NEWS
+https://stream.veo.buzz:6050/news/ch23/ch23_720.m3u8
+#EXTINF:-1,TRT ENGLISH
+https://stream.veo.buzz:6050/news/ch18/ch18_720.m3u8
+#EXTINF:-1,AL-JAZEERA ENGLISH
+https://stream.veo.buzz:6050/news/ch16/ch16_720.m3u8
+#EXTINF:-1,EURO NEWS ENGLISH
+https://stream.veo.buzz:6050/news/ch19/ch19_720.m3u8
+#EXTINF:-1,MOVIES HOLYWWOD
+https://stream.veo.buzz:6050/movies/ch8/ch8_720.m3u8
+#EXTINF:-1,MOVIES-FAMILY
+https://stream.veo.buzz:6050/movies/ch11/ch11_720.m3u8
+#EXTINF:-1,MOVIES-ACTION
+https://stream.veo.buzz:6050/movies/ch9/ch9_720.m3u8
+#EXTINF:-1,MOVIES-PREMIERE
+https://stream.veo.buzz:6050/movies/ch10/ch10_720.m3u8
+#EXTINF:-1,MBC ACTION 
+https://stream.veo.buzz:6050/movies/ch3/ch3_720.m3u8
+#EXTINF:-1,MBC 2
+https://stream.veo.buzz:6050/movies/ch2/ch2_720.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+https://stream.veo.buzz:6050/movies/ch4/ch4_720.m3u8
+#EXTINF:-1,MOVIES-YAHALA
+https://stream.veo.buzz:6050/movies/ch13/ch13_720.m3u8
+#EXTINF:-1,ROTANA CINEMA EGYPT
+https://stream.veo.buzz:6050/movies/ch5/ch5_720.m3u8
+#EXTINF:-1,ROTANA CLASSIC
+https://stream.veo.buzz:6050/movies/ch7/ch7_720.m3u8
+#EXTINF:-1,ROTANA CINEMA KSA
+https://stream.veo.buzz:6050/movies/ch6/ch6_720.m3u8
+#EXTINF:-1,ALFA CINEMA 1
+https://stream.veo.buzz:6050/movies/ch14/ch14_720.m3u8
+#EXTINF:-1,ART CINEMA 
+https://stream.veo.buzz:6050/movies/ch12/ch12_720.m3u8
+#EXTINF:-1,MOSALSALAT 1
+https://stream.veo.buzz:6050/series/ch1/ch1_720.m3u8
+#EXTINF:-1,MOSALSALAT 2
+https://stream.veo.buzz:6050/series/ch2/ch2_720.m3u8
+#EXTINF:-1,OSN SHOWCASE
+https://stream.veo.buzz:6050/series/ch3/ch3_720.m3u8
+#EXTINF:-1,AL-HAYA SERIES
+https://stream.veo.buzz:6050/series/ch4/ch4_720.m3u8
+#EXTINF:-1,OSN YAHALA BIL ARABI 
+https://stream.veo.buzz:6050/series/ch5/ch5_720.m3u8
+#EXTINF:-1,OSN YAHALA 
+https://stream.veo.buzz:6050/series/ch6/ch6_720.m3u8
+#EXTINF:-1,MBC DRAMA
+https://stream.veo.buzz:6050/series/ch7/ch7_720.m3u8
+#EXTINF:-1,ROTANA DRAMA
+https://stream.veo.buzz:6050/series/ch8/ch8_720.m3u8
+#EXTINF:-1,AL-NAHAR
+https://stream.veo.buzz:6050/series/ch9/ch9_720.m3u8
+#EXTINF:-1,AL-NAHAR DRAMA
+https://stream.veo.buzz:6050/series/ch10/ch10_720.m3u8
+#EXTINF:-1,CBC DRAMA
+https://stream.veo.buzz:6050/series/ch11/ch11_720.m3u8
+#EXTINF:-1,OSN TV MEZEE
+https://stream.veo.buzz:6050/enter/ch1/ch1_720.m3u8
+#EXTINF:-1,MBC IRAQ
+https://stream.veo.buzz:6050/enter/ch2/ch2_720.m3u8
+#EXTINF:-1,FASHION
+https://stream.veo.buzz:6050/enter/ch3/ch3_720.m3u8
+#EXTINF:-1,TLC 
+https://stream.veo.buzz:6050/enter/ch4/ch4_720.m3u8
+#EXTINF:-1,OSN TV NOW
+https://stream.veo.buzz:6050/enter/ch5/ch5_720.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+https://stream.veo.buzz:6050/enter/ch6/ch6_720.m3u8
+#EXTINF:-1,ID
+https://stream.veo.buzz:6050/enter/ch7/ch7_720.m3u8
+#EXTINF:-1,ROTANA CLIP
+https://stream.veo.buzz:6050/enter/ch8/ch8_720.m3u8
+#EXTINF:-1,ROTANA MUSIC
+https://stream.veo.buzz:6050/enter/ch9/ch9_720.m3u8
+#EXTINF:-1,ROTANA KHALEJIA
+https://stream.veo.buzz:6050/enter/ch10/ch10_720.m3u8
+#EXTINF:-1,CBC 
+https://stream.veo.buzz:6050/enter/ch11/ch11_720.m3u8
+#EXTINF:-1,DUBAI
+https://stream.veo.buzz:6050/enter/ch12/ch12_720.m3u8
+#EXTINF:-1,HISTORY
+https://stream.veo.buzz:6050/enter/ch13/ch13_720.m3u8
+#EXTINF:-1,E HD
+https://stream.veo.buzz:6050/enter/ch14/ch14_720.m3u8
+#EXTINF:-1,MBC 1
+https://stream.veo.buzz:6050/enter/ch15/ch15_720.m3u8
+#EXTINF:-1,MBC 4
+https://stream.veo.buzz:6050/enter/ch16/ch16_720.m3u8
+#EXTINF:-1,MBC MASR
+https://stream.veo.buzz:6050/enter/ch17/ch17_720.m3u8
+#EXTINF:-1,LBC
+https://stream.veo.buzz:6050/enter/ch18/ch18_720.m3u8
+#EXTINF:-1,MTV 
+https://stream.veo.buzz:6050/enter/ch19/ch19_720.m3u8
+#EXTINF:-1,NAT GEO AD
+https://stream.veo.buzz:6050/enter/ch20/ch20_720.m3u8
+#EXTINF:-1,HISTORY 2
+https://stream.veo.buzz:6050/enter/ch21/ch21_720.m3u8
+#EXTINF:-1,realmadrid salah atallah 720
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1,SPORT-TV1
+https://stream.veo.buzz:6050/sport/ch1/ch1_360.m3u8
+#EXTINF:-1,SKYSPORTS ARENA
+https://stream.veo.buzz:6050/sport/ch2/ch2_360.m3u8
+#EXTINF:-1,CANAL+ SPORT 1
+https://stream.veo.buzz:6050/sport/ch3/ch3_360.m3u8
+#EXTINF:-1,AD SPORT PREMUIM 1
+https://stream.veo.buzz:6050/sport/ch4/ch4_360.m3u8
+#EXTINF:-1,ARENASPORT 2
+https://stream.veo.buzz:6050/sport/ch5/ch5_360.m3u8
+#EXTINF:-1,SPORT 1
+https://stream.veo.buzz:6050/sport/ch6/ch6_360.m3u8
+#EXTINF:-1,RMC SPORT 1
+https://stream.veo.buzz:6050/sport/ch7/ch7_360.m3u8
+#EXTINF:-1,RMC SPORT 1
+https://stream.veo.buzz:6050/sport/ch8/ch8_360.m3u8
+#EXTINF:-1,SSC 1
+https://stream.veo.buzz:6050/sport/ch9/ch9_360.m3u8
+#EXTINF:-1,SSC 2
+https://stream.veo.buzz:6050/sport/ch10/ch10_360.m3u8
+#EXTINF:-1,IRAQIA SPORT 
+https://stream.veo.buzz:6050/sport/ch11/ch11_360.m3u8
+#EXTINF:-1,AL - RABAA SPORT
+https://stream.veo.buzz:6050/sport/ch12/ch12_360.m3u8
+#EXTINF:-1,AL - RABAA SPORT
+https://stream.veo.buzz:6050/sport/ch13/ch13_360.m3u8
+#EXTINF:-1,ON TIME SPORT
+https://stream.veo.buzz:6050/sport/ch14/ch14_360.m3u8
+#EXTINF:-1,ON TIME SPORT 2
+https://stream.veo.buzz:6050/sport/ch15/ch15_360.m3u8
+#EXTINF:-1,AL - KASS ONE
+https://stream.veo.buzz:6050/sport/ch18/ch18_360.m3u8
+#EXTINF:-1,AL - KASS TWO
+https://stream.veo.buzz:6050/sport/ch19/ch19_360.m3u8
+#EXTINF:-1,AL-ANWAR
+https://stream.veo.buzz:6050/islamic/ch1/ch1_360.m3u8
+#EXTINF:-1,KARBALA
+https://stream.veo.buzz:6050/islamic/ch2/ch2_360.m3u8
+#EXTINF:-1,AL-FORAT
+https://stream.veo.buzz:6050/islamic/ch3/ch3_360.m3u8
+#EXTINF:-1,AL-WELAYAH
+https://stream.veo.buzz:6050/islamic/ch4/ch4_360.m3u8
+#EXTINF:-1,KARABALA QURAN
+https://stream.veo.buzz:6050/islamic/ch5/ch5_360.m3u8
+#EXTINF:-1,AL-JAWADEEN
+https://stream.veo.buzz:6050/islamic/ch6/ch6_360.m3u8
+#EXTINF:-1,AL-MAWAKEB
+https://stream.veo.buzz:6050/islamic/ch7/ch7_360.m3u8
+#EXTINF:-1,SOUT-AL-AQILA
+https://stream.veo.buzz:6050/islamic/ch8/ch8_360.m3u8
+#EXTINF:-1,AL-ANES
+https://stream.veo.buzz:6050/islamic/ch9/ch9_360.m3u8
+#EXTINF:-1,AL-HUJJA
+https://stream.veo.buzz:6050/islamic/ch10/ch10_360.m3u8
+#EXTINF:-1,AL-GHADEER
+https://stream.veo.buzz:6050/islamic/ch11/ch11_360.m3u8
+#EXTINF:-1,AL-MAAREF
+https://stream.veo.buzz:6050/islamic/ch12/ch12_360.m3u8
+#EXTINF:-1,AL-SHAAER
+https://stream.veo.buzz:6050/islamic/ch13/ch13_360.m3u8
+#EXTINF:-1,AL-AQILA
+https://stream.veo.buzz:6050/islamic/ch14/ch14_360.m3u8
+#EXTINF:-1,AL-IMAM ALI
+https://stream.veo.buzz:6050/islamic/ch15/ch15_360.m3u8
+#EXTINF:-1,AL- IMAM HUSSIEN
+https://stream.veo.buzz:6050/islamic/ch16/ch16_360.m3u8
+#EXTINF:-1,OM- AL BANEEN
+https://stream.veo.buzz:6050/islamic/ch17/ch17_360.m3u8
+#EXTINF:-1,AFAQ
+https://stream.veo.buzz:6050/news/ch4/ch4_360.m3u8
+#EXTINF:-1,AL-ETEJAH
+https://stream.veo.buzz:6050/news/ch6/ch6_360.m3u8
+#EXTINF:-1,AL- MAYADEEN
+https://stream.veo.buzz:6050/news/ch10/ch10_360.m3u8
+#EXTINF:-1,AL -ANWAR 
+https://stream.veo.buzz:6050/news/ch9/ch9_360.m3u8
+#EXTINF:-1,AL-HURAA IRAQ
+https://stream.veo.buzz:6050/news/ch1/ch1_360.m3u8
+#EXTINF:-1,AL-SHARQIYA
+https://stream.veo.buzz:6050/news/ch2/ch2_360.m3u8
+#EXTINF:-1,KARABALA
+https://stream.veo.buzz:6050/news/ch8/ch8_360.m3u8
+#EXTINF:-1,AL-SHARQIYA NEWS
+https://stream.veo.buzz:6050/news/ch3/ch3_360.m3u8
+#EXTINF:-1,AL-SUMARIA
+https://stream.veo.buzz:6050/news/ch5/ch5_360.m3u8
+#EXTINF:-1,AL-FORAT
+https://stream.veo.buzz:6050/news/ch7/ch7_360.m3u8
+#EXTINF:-1,HONA BAGHDAD
+https://stream.veo.buzz:6050/news/ch21/ch21_360.m3u8
+#EXTINF:-1,AL-HADATH
+https://stream.veo.buzz:6050/news/ch28/ch28_360.m3u8
+#EXTINF:-1,24 IRAQ
+https://stream.veo.buzz:6050/news/ch22/ch22_360.m3u8
+#EXTINF:-1,AL-ARABIYA
+https://stream.veo.buzz:6050/news/ch27/ch27_360.m3u8
+#EXTINF:-1,DW
+https://stream.veo.buzz:6050/news/ch13/ch13_360.m3u8
+#EXTINF:-1,AL-JAZEERA
+https://stream.veo.buzz:6050/news/ch20/ch20_360.m3u8
+#EXTINF:-1,SSC NEWS
+https://stream.veo.buzz:6050/news/ch25/ch25_360.m3u8
+#EXTINF:-1,FRANCE 24 ARABIC
+https://stream.veo.buzz:6050/news/ch11/ch11_360.m3u8
+#EXTINF:-1,CNN NEWS
+https://stream.veo.buzz:6050/news/ch14/ch14_360.m3u8
+#EXTINF:-1,BBC ARABIC
+https://stream.veo.buzz:6050/news/ch12/ch12_360.m3u8
+#EXTINF:-1,OSN NEWS
+https://stream.veo.buzz:6050/news/ch24/ch24_360.m3u8
+#EXTINF:-1,BBC ENGLISH
+https://stream.veo.buzz:6050/news/ch15/ch15_360.m3u8
+#EXTINF:-1,RT NEWS
+https://stream.veo.buzz:6050/news/ch26/ch26_360.m3u8
+#EXTINF:-1,FRANCE 24 ENGLISH
+https://stream.veo.buzz:6050/news/ch17/ch17_360.m3u8
+#EXTINF:-1,FOX NEWS
+https://stream.veo.buzz:6050/news/ch23/ch23_360.m3u8
+#EXTINF:-1,TRT ENGLISH
+https://stream.veo.buzz:6050/news/ch18/ch18_360.m3u8
+#EXTINF:-1,AL-JAZEERA ENGLISH
+https://stream.veo.buzz:6050/news/ch16/ch16_360.m3u8
+#EXTINF:-1,EURO NEWS ENGLISH
+https://stream.veo.buzz:6050/news/ch19/ch19_360.m3u8
+#EXTINF:-1,MOVIES HOLYWWOD
+https://stream.veo.buzz:6050/movies/ch8/ch8_360.m3u8
+#EXTINF:-1,MOVIES-FAMILY
+https://stream.veo.buzz:6050/movies/ch11/ch11_360.m3u8
+#EXTINF:-1,MOVIES-ACTION
+https://stream.veo.buzz:6050/movies/ch9/ch9_360.m3u8
+#EXTINF:-1,MOVIES-PREMIERE
+https://stream.veo.buzz:6050/movies/ch10/ch10_360.m3u8
+#EXTINF:-1,MBC ACTION 
+https://stream.veo.buzz:6050/movies/ch3/ch3_360.m3u8
+#EXTINF:-1,MBC 2
+https://stream.veo.buzz:6050/movies/ch2/ch2_360.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+https://stream.veo.buzz:6050/movies/ch4/ch4_360.m3u8
+#EXTINF:-1,MOVIES-YAHALA
+https://stream.veo.buzz:6050/movies/ch13/ch13_360.m3u8
+#EXTINF:-1,ROTANA CINEMA EGYPT
+https://stream.veo.buzz:6050/movies/ch5/ch5_360.m3u8
+#EXTINF:-1,ROTANA CLASSIC
+https://stream.veo.buzz:6050/movies/ch7/ch7_360.m3u8
+#EXTINF:-1,ROTANA CINEMA KSA
+https://stream.veo.buzz:6050/movies/ch6/ch6_360.m3u8
+#EXTINF:-1,ALFA CINEMA 1
+https://stream.veo.buzz:6050/movies/ch14/ch14_360.m3u8
+#EXTINF:-1,ART CINEMA 
+https://stream.veo.buzz:6050/movies/ch12/ch12_360.m3u8
+#EXTINF:-1,MOSALSALAT 1
+https://stream.veo.buzz:6050/series/ch1/ch1_360.m3u8
+#EXTINF:-1,MOSALSALAT 2
+https://stream.veo.buzz:6050/series/ch2/ch2_360.m3u8
+#EXTINF:-1,OSN SHOWCASE
+https://stream.veo.buzz:6050/series/ch3/ch3_360.m3u8
+#EXTINF:-1,AL-HAYA SERIES
+https://stream.veo.buzz:6050/series/ch4/ch4_360.m3u8
+#EXTINF:-1,OSN YAHALA BIL ARABI 
+https://stream.veo.buzz:6050/series/ch5/ch5_360.m3u8
+#EXTINF:-1,OSN YAHALA 
+https://stream.veo.buzz:6050/series/ch6/ch6_360.m3u8
+#EXTINF:-1,MBC DRAMA
+https://stream.veo.buzz:6050/series/ch7/ch7_360.m3u8
+#EXTINF:-1,ROTANA DRAMA
+https://stream.veo.buzz:6050/series/ch8/ch8_360.m3u8
+#EXTINF:-1,AL-NAHAR
+https://stream.veo.buzz:6050/series/ch9/ch9_360.m3u8
+#EXTINF:-1,AL-NAHAR DRAMA
+https://stream.veo.buzz:6050/series/ch10/ch10_360.m3u8
+#EXTINF:-1,CBC DRAMA
+https://stream.veo.buzz:6050/series/ch11/ch11_360.m3u8
+#EXTINF:-1,OSN TV MEZEE
+https://stream.veo.buzz:6050/enter/ch1/ch1_360.m3u8
+#EXTINF:-1,MBC IRAQ
+https://stream.veo.buzz:6050/enter/ch2/ch2_360.m3u8
+#EXTINF:-1,FASHION
+https://stream.veo.buzz:6050/enter/ch3/ch3_360.m3u8
+#EXTINF:-1,TLC 
+https://stream.veo.buzz:6050/enter/ch4/ch4_360.m3u8
+#EXTINF:-1,OSN TV NOW
+https://stream.veo.buzz:6050/enter/ch5/ch5_360.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+https://stream.veo.buzz:6050/enter/ch6/ch6_360.m3u8
+#EXTINF:-1,ID
+https://stream.veo.buzz:6050/enter/ch7/ch7_360.m3u8
+#EXTINF:-1,ROTANA CLIP
+https://stream.veo.buzz:6050/enter/ch8/ch8_360.m3u8
+#EXTINF:-1,ROTANA MUSIC
+https://stream.veo.buzz:6050/enter/ch9/ch9_360.m3u8
+#EXTINF:-1,ROTANA KHALEJIA
+https://stream.veo.buzz:6050/enter/ch10/ch10_360.m3u8
+#EXTINF:-1,CBC 
+https://stream.veo.buzz:6050/enter/ch11/ch11_360.m3u8
+#EXTINF:-1,DUBAI
+https://stream.veo.buzz:6050/enter/ch12/ch12_360.m3u8
+#EXTINF:-1,HISTORY
+https://stream.veo.buzz:6050/enter/ch13/ch13_360.m3u8
+#EXTINF:-1,E HD
+https://stream.veo.buzz:6050/enter/ch14/ch14_360.m3u8
+#EXTINF:-1,MBC 1
+https://stream.veo.buzz:6050/enter/ch15/ch15_360.m3u8
+#EXTINF:-1,MBC 4
+https://stream.veo.buzz:6050/enter/ch16/ch16_360.m3u8
+#EXTINF:-1,MBC MASR
+https://stream.veo.buzz:6050/enter/ch17/ch17_360.m3u8
+#EXTINF:-1,LBC
+https://stream.veo.buzz:6050/enter/ch18/ch18_360.m3u8
+#EXTINF:-1,MTV 
+https://stream.veo.buzz:6050/enter/ch19/ch19_360.m3u8
+#EXTINF:-1,NAT GEO AD
+https://stream.veo.buzz:6050/enter/ch20/ch20_360.m3u8
+#EXTINF:-1,HISTORY 2
+https://stream.veo.buzz:6050/enter/ch21/ch21_360.m3u8
+#EXTINF:-1,realmadrid salah atallah 720
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1,SPORT-TV1
+https://stream.veo.buzz:6050/sport/ch1/ch1_240.m3u8
+#EXTINF:-1,SKYSPORTS ARENA
+https://stream.veo.buzz:6050/sport/ch2/ch2_240.m3u8
+#EXTINF:-1,CANAL+ SPORT 1
+https://stream.veo.buzz:6050/sport/ch3/ch3_240.m3u8
+#EXTINF:-1,AD SPORT PREMUIM 1
+https://stream.veo.buzz:6050/sport/ch4/ch4_240.m3u8
+#EXTINF:-1,ARENASPORT 2
+https://stream.veo.buzz:6050/sport/ch5/ch5_240.m3u8
+#EXTINF:-1,SPORT 1
+https://stream.veo.buzz:6050/sport/ch6/ch6_240.m3u8
+#EXTINF:-1,RMC SPORT 1
+https://stream.veo.buzz:6050/sport/ch7/ch7_240.m3u8
+#EXTINF:-1,RMC SPORT 1
+https://stream.veo.buzz:6050/sport/ch8/ch8_240.m3u8
+#EXTINF:-1,SSC 1
+https://stream.veo.buzz:6050/sport/ch9/ch9_240.m3u8
+#EXTINF:-1,SSC 2
+https://stream.veo.buzz:6050/sport/ch10/ch10_240.m3u8
+#EXTINF:-1,IRAQIA SPORT 
+https://stream.veo.buzz:6050/sport/ch11/ch11_240.m3u8
+#EXTINF:-1,AL - RABAA SPORT
+https://stream.veo.buzz:6050/sport/ch12/ch12_240.m3u8
+#EXTINF:-1,AL - RABAA SPORT
+https://stream.veo.buzz:6050/sport/ch13/ch13_240.m3u8
+#EXTINF:-1,ON TIME SPORT
+https://stream.veo.buzz:6050/sport/ch14/ch14_240.m3u8
+#EXTINF:-1,ON TIME SPORT 2
+https://stream.veo.buzz:6050/sport/ch15/ch15_240.m3u8
+#EXTINF:-1,AL - KASS ONE
+https://stream.veo.buzz:6050/sport/ch18/ch18_240.m3u8
+#EXTINF:-1,AL - KASS TWO
+https://stream.veo.buzz:6050/sport/ch19/ch19_240.m3u8
+#EXTINF:-1,AL-ANWAR
+https://stream.veo.buzz:6050/islamic/ch1/ch1_240.m3u8
+#EXTINF:-1,KARBALA
+https://stream.veo.buzz:6050/islamic/ch2/ch2_240.m3u8
+#EXTINF:-1,AL-FORAT
+https://stream.veo.buzz:6050/islamic/ch3/ch3_240.m3u8
+#EXTINF:-1,AL-WELAYAH
+https://stream.veo.buzz:6050/islamic/ch4/ch4_240.m3u8
+#EXTINF:-1,KARABALA QURAN
+https://stream.veo.buzz:6050/islamic/ch5/ch5_240.m3u8
+#EXTINF:-1,AL-JAWADEEN
+https://stream.veo.buzz:6050/islamic/ch6/ch6_240.m3u8
+#EXTINF:-1,AL-MAWAKEB
+https://stream.veo.buzz:6050/islamic/ch7/ch7_240.m3u8
+#EXTINF:-1,SOUT-AL-AQILA
+https://stream.veo.buzz:6050/islamic/ch8/ch8_240.m3u8
+#EXTINF:-1,AL-ANES
+https://stream.veo.buzz:6050/islamic/ch9/ch9_240.m3u8
+#EXTINF:-1,AL-HUJJA
+https://stream.veo.buzz:6050/islamic/ch10/ch10_240.m3u8
+#EXTINF:-1,AL-GHADEER
+https://stream.veo.buzz:6050/islamic/ch11/ch11_240.m3u8
+#EXTINF:-1,AL-MAAREF
+https://stream.veo.buzz:6050/islamic/ch12/ch12_240.m3u8
+#EXTINF:-1,AL-SHAAER
+https://stream.veo.buzz:6050/islamic/ch13/ch13_240.m3u8
+#EXTINF:-1,AL-AQILA
+https://stream.veo.buzz:6050/islamic/ch14/ch14_240.m3u8
+#EXTINF:-1,AL-IMAM ALI
+https://stream.veo.buzz:6050/islamic/ch15/ch15_240.m3u8
+#EXTINF:-1,AL- IMAM HUSSIEN
+https://stream.veo.buzz:6050/islamic/ch16/ch16_240.m3u8
+#EXTINF:-1,OM- AL BANEEN
+https://stream.veo.buzz:6050/islamic/ch17/ch17_240.m3u8
+#EXTINF:-1,AFAQ
+https://stream.veo.buzz:6050/news/ch4/ch4_240.m3u8
+#EXTINF:-1,AL-ETEJAH
+https://stream.veo.buzz:6050/news/ch6/ch6_240.m3u8
+#EXTINF:-1,AL- MAYADEEN
+https://stream.veo.buzz:6050/news/ch10/ch10_240.m3u8
+#EXTINF:-1,AL -ANWAR 
+https://stream.veo.buzz:6050/news/ch9/ch9_240.m3u8
+#EXTINF:-1,AL-HURAA IRAQ
+https://stream.veo.buzz:6050/news/ch1/ch1_240.m3u8
+#EXTINF:-1,AL-SHARQIYA
+https://stream.veo.buzz:6050/news/ch2/ch2_240.m3u8
+#EXTINF:-1,KARABALA
+https://stream.veo.buzz:6050/news/ch8/ch8_240.m3u8
+#EXTINF:-1,AL-SHARQIYA NEWS
+https://stream.veo.buzz:6050/news/ch3/ch3_240.m3u8
+#EXTINF:-1,AL-SUMARIA
+https://stream.veo.buzz:6050/news/ch5/ch5_240.m3u8
+#EXTINF:-1,AL-FORAT
+https://stream.veo.buzz:6050/news/ch7/ch7_240.m3u8
+#EXTINF:-1,HONA BAGHDAD
+https://stream.veo.buzz:6050/news/ch21/ch21_240.m3u8
+#EXTINF:-1,AL-HADATH
+https://stream.veo.buzz:6050/news/ch28/ch28_240.m3u8
+#EXTINF:-1,24 IRAQ
+https://stream.veo.buzz:6050/news/ch22/ch22_240.m3u8
+#EXTINF:-1,AL-ARABIYA
+https://stream.veo.buzz:6050/news/ch27/ch27_240.m3u8
+#EXTINF:-1,DW
+https://stream.veo.buzz:6050/news/ch13/ch13_240.m3u8
+#EXTINF:-1,AL-JAZEERA
+https://stream.veo.buzz:6050/news/ch20/ch20_240.m3u8
+#EXTINF:-1,SSC NEWS
+https://stream.veo.buzz:6050/news/ch25/ch25_240.m3u8
+#EXTINF:-1,FRANCE 24 ARABIC
+https://stream.veo.buzz:6050/news/ch11/ch11_240.m3u8
+#EXTINF:-1,CNN NEWS
+https://stream.veo.buzz:6050/news/ch14/ch14_240.m3u8
+#EXTINF:-1,BBC ARABIC
+https://stream.veo.buzz:6050/news/ch12/ch12_240.m3u8
+#EXTINF:-1,OSN NEWS
+https://stream.veo.buzz:6050/news/ch24/ch24_240.m3u8
+#EXTINF:-1,BBC ENGLISH
+https://stream.veo.buzz:6050/news/ch15/ch15_240.m3u8
+#EXTINF:-1,RT NEWS
+https://stream.veo.buzz:6050/news/ch26/ch26_240.m3u8
+#EXTINF:-1,FRANCE 24 ENGLISH
+https://stream.veo.buzz:6050/news/ch17/ch17_240.m3u8
+#EXTINF:-1,FOX NEWS
+https://stream.veo.buzz:6050/news/ch23/ch23_240.m3u8
+#EXTINF:-1,TRT ENGLISH
+https://stream.veo.buzz:6050/news/ch18/ch18_240.m3u8
+#EXTINF:-1,AL-JAZEERA ENGLISH
+https://stream.veo.buzz:6050/news/ch16/ch16_240.m3u8
+#EXTINF:-1,EURO NEWS ENGLISH
+https://stream.veo.buzz:6050/news/ch19/ch19_240.m3u8
+#EXTINF:-1,MOVIES HOLYWWOD
+https://stream.veo.buzz:6050/movies/ch8/ch8_240.m3u8
+#EXTINF:-1,MOVIES-FAMILY
+https://stream.veo.buzz:6050/movies/ch11/ch11_240.m3u8
+#EXTINF:-1,MOVIES-ACTION
+https://stream.veo.buzz:6050/movies/ch9/ch9_240.m3u8
+#EXTINF:-1,MOVIES-PREMIERE
+https://stream.veo.buzz:6050/movies/ch10/ch10_240.m3u8
+#EXTINF:-1,MBC ACTION 
+https://stream.veo.buzz:6050/movies/ch3/ch3_240.m3u8
+#EXTINF:-1,MBC 2
+https://stream.veo.buzz:6050/movies/ch2/ch2_240.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+https://stream.veo.buzz:6050/movies/ch4/ch4_240.m3u8
+#EXTINF:-1,MOVIES-YAHALA
+https://stream.veo.buzz:6050/movies/ch13/ch13_240.m3u8
+#EXTINF:-1,ROTANA CINEMA EGYPT
+https://stream.veo.buzz:6050/movies/ch5/ch5_240.m3u8
+#EXTINF:-1,ROTANA CLASSIC
+https://stream.veo.buzz:6050/movies/ch7/ch7_240.m3u8
+#EXTINF:-1,ROTANA CINEMA KSA
+https://stream.veo.buzz:6050/movies/ch6/ch6_240.m3u8
+#EXTINF:-1,ALFA CINEMA 1
+https://stream.veo.buzz:6050/movies/ch14/ch14_240.m3u8
+#EXTINF:-1,ART CINEMA 
+https://stream.veo.buzz:6050/movies/ch12/ch12_240.m3u8
+#EXTINF:-1,MOSALSALAT 1
+https://stream.veo.buzz:6050/series/ch1/ch1_240.m3u8
+#EXTINF:-1,MOSALSALAT 2
+https://stream.veo.buzz:6050/series/ch2/ch2_240.m3u8
+#EXTINF:-1,OSN SHOWCASE
+https://stream.veo.buzz:6050/series/ch3/ch3_240.m3u8
+#EXTINF:-1,AL-HAYA SERIES
+https://stream.veo.buzz:6050/series/ch4/ch4_240.m3u8
+#EXTINF:-1,OSN YAHALA BIL ARABI 
+https://stream.veo.buzz:6050/series/ch5/ch5_240.m3u8
+#EXTINF:-1,OSN YAHALA 
+https://stream.veo.buzz:6050/series/ch6/ch6_240.m3u8
+#EXTINF:-1,MBC DRAMA
+https://stream.veo.buzz:6050/series/ch7/ch7_240.m3u8
+#EXTINF:-1,ROTANA DRAMA
+https://stream.veo.buzz:6050/series/ch8/ch8_240.m3u8
+#EXTINF:-1,AL-NAHAR
+https://stream.veo.buzz:6050/series/ch9/ch9_240.m3u8
+#EXTINF:-1,AL-NAHAR DRAMA
+https://stream.veo.buzz:6050/series/ch10/ch10_240.m3u8
+#EXTINF:-1,CBC DRAMA
+https://stream.veo.buzz:6050/series/ch11/ch11_240.m3u8
+#EXTINF:-1,OSN TV MEZEE
+https://stream.veo.buzz:6050/enter/ch1/ch1_240.m3u8
+#EXTINF:-1,MBC IRAQ
+https://stream.veo.buzz:6050/enter/ch2/ch2_240.m3u8
+#EXTINF:-1,FASHION
+https://stream.veo.buzz:6050/enter/ch3/ch3_240.m3u8
+#EXTINF:-1,TLC 
+https://stream.veo.buzz:6050/enter/ch4/ch4_240.m3u8
+#EXTINF:-1,OSN TV NOW
+https://stream.veo.buzz:6050/enter/ch5/ch5_240.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+https://stream.veo.buzz:6050/enter/ch6/ch6_240.m3u8
+#EXTINF:-1,ID
+https://stream.veo.buzz:6050/enter/ch7/ch7_240.m3u8
+#EXTINF:-1,ROTANA CLIP
+https://stream.veo.buzz:6050/enter/ch8/ch8_240.m3u8
+#EXTINF:-1,ROTANA MUSIC
+https://stream.veo.buzz:6050/enter/ch9/ch9_240.m3u8
+#EXTINF:-1,ROTANA KHALEJIA
+https://stream.veo.buzz:6050/enter/ch10/ch10_240.m3u8
+#EXTINF:-1,CBC 
+https://stream.veo.buzz:6050/enter/ch11/ch11_240.m3u8
+#EXTINF:-1,DUBAI
+https://stream.veo.buzz:6050/enter/ch12/ch12_240.m3u8
+#EXTINF:-1,HISTORY
+https://stream.veo.buzz:6050/enter/ch13/ch13_240.m3u8
+#EXTINF:-1,E HD
+https://stream.veo.buzz:6050/enter/ch14/ch14_240.m3u8
+#EXTINF:-1,MBC 1
+https://stream.veo.buzz:6050/enter/ch15/ch15_240.m3u8
+#EXTINF:-1,MBC 4
+https://stream.veo.buzz:6050/enter/ch16/ch16_240.m3u8
+#EXTINF:-1,MBC MASR
+https://stream.veo.buzz:6050/enter/ch17/ch17_240.m3u8
+#EXTINF:-1,LBC
+https://stream.veo.buzz:6050/enter/ch18/ch18_240.m3u8
+#EXTINF:-1,MTV 
+https://stream.veo.buzz:6050/enter/ch19/ch19_240.m3u8
+#EXTINF:-1,NAT GEO AD
+https://stream.veo.buzz:6050/enter/ch20/ch20_240.m3u8
+#EXTINF:-1,HISTORY 2
+https://stream.veo.buzz:6050/enter/ch21/ch21_240.m3u8
+#EXTM3U
+#EXTINF:4 type="stream" channelId="-1", SSC1 Shabakaty TV
+http://stream.shabakaty.com:6010/sport/ch9/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1", SSC2
+http://stream.shabakaty.com:6011/sport/ch10/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Sport", On time sport 1
+http://stream.shabakaty.com:6016/sport/ch15/ch15_720.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Sport", On time sport 2
+http://stream.shabakaty.com:6015/sport/ch14/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Sport", Alkass 1
+http://stream.shabakaty.com:6016/sport/ch15/ch15_1080.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Sport", Alkass 2
+http://stream.shabakaty.com:6017/sport/ch16/ch16_720.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", العهد
+http://stream.shabakaty.com:6001/news/ch1/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", Al Sharqiya HD
+http://stream.shabakaty.com:6001/news/ch2/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", Al Sharqiya News
+http://stream.shabakaty.com:6001/news/ch3/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", Afaq TV
+http://stream.shabakaty.com:6001/news/ch4/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4976" group="News", ALhurra Iraq
+http://stream.shabakaty.com:6001/news/ch5/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", Etejah TV
+http://stream.shabakaty.com:6001/news/ch6/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" name="Forat" group="News", AL-Forat
+http://stream.shabakaty.com:6001/news/ch7/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Islamic", Karbala TV
+http://stream.shabakaty.com:6001/news/ch8/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Islamic", Al Anwar TV
+http://stream.shabakaty.com:6001/news/ch9/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", Al Mayadeen News
+http://stream.shabakaty.com:6001/news/ch10/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="139" group="News", france 24 Arabic
+http://stream.shabakaty.com:6001/news/ch11/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4977" group="News", BBC Arabic
+http://stream.shabakaty.com:6001/news/ch12/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="352" group="News", DW
+http://stream.shabakaty.com:6001/news/ch13/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="3482" group="News", CNN News
+http://stream.shabakaty.com:6001/news/ch14/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="1142" group="News", BBC English
+http://stream.shabakaty.com:6001/news/ch15/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="363" group="News", ALjazeera English
+http://stream.shabakaty.com:6001/news/ch16/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", TRT English
+http://stream.shabakaty.com:6001/news/ch18/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="217" group="News", Euro News English
+http://stream.shabakaty.com:6001/news/ch19/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="363" group="News", ALjazeera
+http://stream.shabakaty.com:6001/news/ch20/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", Hona Baghdad
+http://stream.shabakaty.com:6001/news/ch21/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", 24 Iraq
+http://stream.shabakaty.com:6001/news/ch22/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="1317" group="News", Fox News
+http://stream.shabakaty.com:6001/news/ch23/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4940" group="News", Osn News
+http://stream.shabakaty.com:6001/news/ch24/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Sport", SSC News
+http://stream.shabakaty.com:6001/news/ch25/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4974" group="News", RT News
+http://stream.shabakaty.com:6001/news/ch26/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", ALarabiya
+http://stream.shabakaty.com:6001/news/ch27/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", ALhadath
+http://stream.shabakaty.com:6001/news/ch28/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", Alsumaria TV
+http://stream.shabakaty.com:6001/news/ch29/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", ALjazeera live
+http://stream.shabakaty.com:6001/news/ch30/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", ALtaghier news
+http://stream.shabakaty.com:6001/news/ch31/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", AL sharq news
+http://stream.shabakaty.com:6001/news/ch32/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="News", 12 Arabia
+http://stream.shabakaty.com:6001/news/ch33/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Cinemana Box Office
+http://stream.shabakaty.com:6001/movies/ch1/ch1_720.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="cartoons", Cinemana Animation
+http://stream.shabakaty.com:6001/movies/ch2/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Cinemana Home Of movies
+http://stream.shabakaty.com:6001/movies/ch3/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Cinemana Action
+http://stream.shabakaty.com:6001/movies/ch4/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Rotana Cinema egypt
+http://stream.shabakaty.com:6001/movies/ch5/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Rotana Cinema Ksa
+http://stream.shabakaty.com:6001/movies/ch6/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Rotana Classic
+http://stream.shabakaty.com:6001/movies/ch7/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Movies HD 8
+http://stream.shabakaty.com:6001/movies/ch8/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Movies HD 9
+http://stream.shabakaty.com:6001/movies/ch9/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Movies HD 10
+http://stream.shabakaty.com:6001/movies/ch10/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Movies HD11
+http://stream.shabakaty.com:6001/movies/ch11/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4948" group="Entertainment", Art cinema
+http://stream.shabakaty.com:6001/movies/ch12/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Movies HD 13
+http://stream.shabakaty.com:6001/movies/ch13/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="3838" group="Entertainment", Alfa Cinema 1
+http://stream.shabakaty.com:6001/movies/ch14/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Real px action
+http://stream.shabakaty.com:6001/movies/ch15/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Real px family
+http://stream.shabakaty.com:6001/movies/ch16/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Real px unlimited
+http://stream.shabakaty.com:6001/movies/ch17/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Real px comedy
+http://stream.shabakaty.com:6001/movies/ch18/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4994" group="Entertainment", Mbc Action
+http://stream.shabakaty.com:6001/movies/ch19/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4995" group="Entertainment", Mbc Bollywood
+http://stream.shabakaty.com:6001/movies/ch20/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4992" group="Entertainment", Mbc2
+http://stream.shabakaty.com:6001/movies/ch21/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="2789" group="Entertainment", Film box art house
+http://stream.shabakaty.com:6001/movies/ch22/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="3021" group="Entertainment", Film box Family
+http://stream.shabakaty.com:6001/movies/ch23/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="cartoons", Cinemana Anime
+http://stream.shabakaty.com:6001/series/ch1/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="cartoons", Cinemana Anime Onoing
+http://stream.shabakaty.com:6001/series/ch2/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Cinemana Series
+http://stream.shabakaty.com:6001/series/ch3/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Cinemana Series Ongoing
+http://stream.shabakaty.com:6001/series/ch4/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Cinemana Turkish & Arabic
+http://stream.shabakaty.com:6001/series/ch5/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Series HD 6
+http://stream.shabakaty.com:6001/series/ch6/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Series HD 7
+http://stream.shabakaty.com:6001/series/ch7/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4989" group="Entertainment", MBC Drama
+http://stream.shabakaty.com:6001/series/ch8/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="1158" group="Entertainment", Rotana drama
+http://stream.shabakaty.com:6001/series/ch9/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Al Nahar One
+http://stream.shabakaty.com:6001/series/ch10/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Cbc Drama
+http://stream.shabakaty.com:6001/series/ch11/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="2804" group="Entertainment", Mbc e life
+http://stream.shabakaty.com:6001/series/ch12/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Series Comedy
+http://stream.shabakaty.com:6001/series/ch13/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4360" group="Entertainment", Tdc
+http://stream.shabakaty.com:6001/series/ch14/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4944" group="Entertainment", Art hekayat 1
+http://stream.shabakaty.com:6001/series/ch15/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4945" group="Entertainment", Art hekayat 2
+http://stream.shabakaty.com:6001/series/ch16/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Mosalsalat 1
+http://stream.shabakaty.com:6001/series/ch17/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Mosalsalat 2
+http://stream.shabakaty.com:6001/series/ch18/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4950" group="Entertainment", OSN ALsafwa
+http://stream.shabakaty.com:6001/series/ch19/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="1421" group="Entertainment", Showcase
+http://stream.shabakaty.com:6001/series/ch20/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="1084" group="Entertainment", Alhayah Series
+http://stream.shabakaty.com:6001/series/ch21/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4937" group="Entertainment", Mezze
+http://stream.shabakaty.com:6001/enter/ch1/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4998" group="Entertainment", MBC iraq HD
+http://stream.shabakaty.com:6001/enter/ch2/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="280" group="Entertainment", fashion tv
+http://stream.shabakaty.com:6001/enter/ch3/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="67" group="Entertainment", Tlc
+http://stream.shabakaty.com:6001/enter/ch4/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4938" group="Entertainment", Living
+http://stream.shabakaty.com:6001/enter/ch5/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="50" group="وثائقي", Animal planet
+http://stream.shabakaty.com:6001/enter/ch6/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Idx
+http://stream.shabakaty.com:6001/enter/ch7/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Rotana Clip
+http://stream.shabakaty.com:6001/enter/ch8/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Rotana Music
+http://stream.shabakaty.com:6001/enter/ch9/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Rotana Khalejia
+http://stream.shabakaty.com:6001/enter/ch10/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="1993" group="وثائقي", CBC
+http://stream.shabakaty.com:6001/enter/ch11/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="وثائقي", Dubai
+http://stream.shabakaty.com:6001/enter/ch12/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="1456" group="وثائقي", History
+http://stream.shabakaty.com:6001/enter/ch13/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="وثائقي", E HD
+http://stream.shabakaty.com:6001/enter/ch14/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="2805" group="وثائقي", MBC 1
+http://stream.shabakaty.com:6001/enter/ch15/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4993" group="وثائقي", MBC 4
+http://stream.shabakaty.com:6001/enter/ch16/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4990" group="وثائقي", MBC Masr
+http://stream.shabakaty.com:6001/enter/ch17/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4907" group="وثائقي", LBC
+http://stream.shabakaty.com:6001/enter/ch18/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="1973" group="Entertainment", MTV
+http://stream.shabakaty.com:6001/enter/ch19/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="56" group="وثائقي", Nat Geo Abu Dhabi
+http://stream.shabakaty.com:6001/enter/ch20/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="1455" group="وثائقي", History 2
+http://stream.shabakaty.com:6001/enter/ch21/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="2804" group="Entertainment", Mbc 5
+http://stream.shabakaty.com:6001/enter/ch22/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Mbc variety
+http://stream.shabakaty.com:6001/enter/ch23/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="4928" group="Entertainment", OSN Crime
+http://stream.shabakaty.com:6001/enter/ch24/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Thekhayal
+http://stream.shabakaty.com:6001/enter/ch25/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="وثائقي", Planet earth
+http://stream.shabakaty.com:6001/enter/ch26/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="1998" group="Entertainment", Documentary pil arabic
+http://stream.shabakaty.com:6001/enter/ch27/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Awe
+http://stream.shabakaty.com:6001/enter/ch28/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Ducu box
+http://stream.shabakaty.com:6001/enter/ch29/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="Entertainment", Rotana+
+http://stream.shabakaty.com:6001/enter/ch31/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="cartoons", Kids
+http://stream.shabakaty.com:6001/kids/ch1/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="cartoons", Kids Zone
+http://stream.shabakaty.com:6001/kids/ch2/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="40" group="cartoons", CARTOON NETWORK
+http://stream.shabakaty.com:6001/kids/ch3/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="cartoons", MBC 3
+http://stream.shabakaty.com:6001/kids/ch4/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="cartoons", Spacetoon
+http://stream.shabakaty.com:6001/kids/ch5/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="41" group="cartoons", Nickelodeon
+http://stream.shabakaty.com:6001/kids/ch6/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="183" group="cartoons", Guli bil arabic
+http://stream.shabakaty.com:6001/kids/ch7/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="2908" group="cartoons", Zoomoo
+http://stream.shabakaty.com:6001/kids/ch8/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="182" group="cartoons", Tiji
+http://stream.shabakaty.com:6001/kids/ch9/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="cartoons", Stc kids
+http://stream.shabakaty.com:6001/kids/ch10/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="-1" group="cartoons", Moon bug kids
+http://stream.shabakaty.com:6001/kids/ch11/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="322" group="cartoons", Nick jr
+http://stream.shabakaty.com:6001/kids/ch12/adaptive.m3u8
+#EXTINF:4 type="stream" channelId="1947" group="cartoons", Fix Foxi
+http://stream.shabakaty.com:6001/kids/ch13/adaptive.m3u8
