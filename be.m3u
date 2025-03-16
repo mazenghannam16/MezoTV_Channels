@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jd1CxQWM/ezgif-4-9b2f2bdb9d.png",beIN Sports 1
+https://wo.cma.footballii.ir:443/hls2/b1_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhPf8K0n/ezgif-4-ea9735e79e.png",beIN Sports 2
+https://wo.cma.footballii.ir:443/hls2/b2_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YRcKbcC/ezgif-4-c4a8973585.png",beIN Sports 3
+https://wo.cma.footballii.ir:443/hls2/b3_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BtfFvTbL/ezgif-4-fb431a65d2.png",beIN Sports 4
+http://humsab.xyz/IN_E4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJj4Gz2Y/ezgif-4-d05f5f6b4f.png",beIN Sports 5
+http://humsab.xyz/IN_E5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbY4QQFf/ezgif-4-acc96c17d3.png",beIN Sports 6
+http://humsab.xyz/IN_E6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ydScDhL/ezgif-4-4d554b1eb1.png",beIN Sports 7
+http://humsab.xyz/IN_E7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6d27vnS/ezgif-4-6ae6a68537.png",beIN Sports 8
+http://humsab.xyz/IN_E8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgqc9BTT/ezgif-4-bb8ff83628.png",beIN Sports 9
+http://humsab.xyz/IN_E9/index.m3u8
